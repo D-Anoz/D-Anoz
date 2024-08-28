@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anoz
 - 👀 Currently I’m interested in flutter
-- 🌱 I’m currently learning flutter and working as UI/UX designer(2+ years exp)
+- 🌱 I’m currently learning flutter and working as UI/UX designer(3+ years exp)
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 You can mail me on anojgosain@gmail.com (please mention subject)
 - 😄 Pronouns: ...
